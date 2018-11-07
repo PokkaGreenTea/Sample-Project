@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.apache.poi</groupId>
-      <artifactId>poi</artifactId>
-      <version>3.10-FINAL</version>
+      <groupId>org.igniterealtime.smack</groupId>
+    <artifactId>smack-tcp</artifactId>
+    <version>4.0.1</version>
     </dependency>
   </dependencies>
 </project>
