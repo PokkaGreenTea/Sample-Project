@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-core</artifactId>
-      <version>5.0.2.RELEASE</version>
+      <groupId>org.apache.tomcat</groupId>
+      <artifactId>tomcat-servlet-api</artifactId>
+      <version>9.0.0.M9</version>
     </dependency>
   </dependencies>
 </project>
