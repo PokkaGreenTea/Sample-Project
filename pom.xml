@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.jboss.remoting</groupId>
-    <artifactId>jboss-remoting</artifactId>
-    <version>5.0.0.Beta1</version>
+      <groupId>com.google.guava</groupId>
+    <artifactId>guava</artifactId>
+    <version>19.0</version>
     </dependency>
   </dependencies>
 </project>
