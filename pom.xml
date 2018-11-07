@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>com.google.guava</groupId>
-    <artifactId>guava</artifactId>
-    <version>19.0</version>
+      <groupId>org.apache.tomcat</groupId>
+    <artifactId>tomcat-catalina</artifactId>
+    <version>7.0.28</version>
     </dependency>
   </dependencies>
 </project>
