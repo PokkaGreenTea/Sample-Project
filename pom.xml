@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>com.atlassian.browsers</groupId>
-      <artifactId>firefox</artifactId>
-      <version>38.0</version>
+      <groupId>org.apache.hadoop</groupId>
+    <artifactId>hadoop-common</artifactId>
+    <version>0.22.0</version>
     </dependency>
   </dependencies>
 </project>
