@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.eclipse.jetty</groupId>
-    <artifactId>jetty-server</artifactId>
-    <version>9.4.8.v20171121</version>
+      <groupId>org.apache.batik</groupId>
+    <artifactId>com.springsource.org.apache.batik.util</artifactId>
+    <version>1.7.0</version>
     </dependency>
   </dependencies>
 </project>
