@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.apache.hadoop</groupId>
-    <artifactId>hadoop-common</artifactId>
-    <version>0.22.0</version>
+      <groupId>org.jruby</groupId>
+    <artifactId>jruby</artifactId>
+    <version>1.7.0</version>
     </dependency>
   </dependencies>
 </project>
