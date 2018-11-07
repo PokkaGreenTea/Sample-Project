@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.jenkins-ci.plugins</groupId>
-      <artifactId>subversion</artifactId>
-      <version>1.53</version>
+      <groupId>org.apache.hadoop</groupId>
+      <artifactId>hadoop-common</artifactId>
+      <version>0.22.0</version>
     </dependency>
   </dependencies>
 </project>
