@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>com.rabbitmq</groupId>
-    <artifactId>amqp-client</artifactId>
-    <version>3.5.7</version>
+      <groupId>org.apache.tomcat</groupId>
+    <artifactId>tomcat-servlet-api</artifactId>
+    <version>7.0.0</version>
     </dependency>
   </dependencies>
 </project>
