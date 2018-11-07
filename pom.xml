@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.richfaces.core</groupId>
-    <artifactId>richfaces-core-impl</artifactId>
-    <version>4.3.4.Final</version>
+      <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>subversion</artifactId>
+    <version>1.53</version>
     </dependency>
   </dependencies>
 </project>
