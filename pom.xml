@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.cloudfoundry.identity</groupId>
-    <artifactId>cloudfoundry-identity-uaa</artifactId>
-    <version>3.9.1</version>
+      <groupId>org.richfaces.core</groupId>
+    <artifactId>richfaces-core-impl</artifactId>
+    <version>4.3.4.Final</version>
     </dependency>
   </dependencies>
 </project>
