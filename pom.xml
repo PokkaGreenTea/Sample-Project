@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.igniterealtime.smack</groupId>
-    <artifactId>smack-tcp</artifactId>
-    <version>4.0.1</version>
+      <groupId>com.atlassian.browsers</groupId>
+    <artifactId>firefox</artifactId>
+    <version>38.0</version>
     </dependency>
   </dependencies>
 </project>
