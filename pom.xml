@@ -20,7 +20,7 @@
     <dependency>
       <groupId>org.jboss.amq</groupId>
     <artifactId>jboss-a-mq</artifactId>
-    <version>6.2.0.redhat-133</version>
+    <version>6.3.0.redhat-356</version>
     </dependency>
   </dependencies>
 </project>
