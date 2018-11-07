@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.apache.tomcat</groupId>
-    <artifactId>tomcat-catalina</artifactId>
-    <version>8.5.30</version>
+      <groupId>org.eclipse.jetty</groupId>
+    <artifactId>jetty-server</artifactId>
+    <version>9.4.7.RC0</version>
     </dependency>
   </dependencies>
 </project>
