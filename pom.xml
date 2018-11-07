@@ -19,8 +19,9 @@
   <dependencies>
     <dependency>
       <groupId>org.apache.tomcat</groupId>
-    <artifactId>tomcat-catalina</artifactId>
-    <version>7.0.22</version>
+    <artifactId>catalina</artifactId>
+    <version>6.0.14</version>
+    <scope>provided</scope>
     </dependency>
   </dependencies>
 </project>
