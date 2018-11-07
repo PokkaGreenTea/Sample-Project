@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.apache.tomcat</groupId>
-    <artifactId>tomcat-servlet-api</artifactId>
-    <version>9.0.7</version>
+      <groupId>org.eclipse.jetty</groupId>
+    <artifactId>jetty-webapp</artifactId>
+    <version>9.4.8.v20180619</version>
     </dependency>
   </dependencies>
 </project>
