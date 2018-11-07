@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.eclipse.jetty</groupId>
-    <artifactId>jetty-webapp</artifactId>
-    <version>9.4.8.v20180619</version>
+      <groupId>com.github.protobufel</groupId>
+    <artifactId>globs</artifactId>
+    <version>0.6</version>
     </dependency>
   </dependencies>
 </project>
