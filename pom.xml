@@ -19,8 +19,8 @@
   <dependencies>
     <dependency>
       <groupId>org.apache.tomcat</groupId>
-    <artifactId>tomcat-servlet-api</artifactId>
-    <version>7.0.11</version>
+    <artifactId>apache-tomcat</artifactId>
+    <version>5.5.27</version>
     </dependency>
   </dependencies>
 </project>
