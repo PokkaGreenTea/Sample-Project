@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>com.atlassian.browsers</groupId>
-    <artifactId>firefox</artifactId>
-    <version>47.0.1</version>
+      <groupId>org.cloudfoundry.identity</groupId>
+    <artifactId>cloudfoundry-identity-uaa</artifactId>
+    <version>3.9.1</version>
     </dependency>
   </dependencies>
 </project>
