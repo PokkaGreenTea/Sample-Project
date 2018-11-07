@@ -18,9 +18,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>com.github.protobufel</groupId>
-    <artifactId>globs</artifactId>
-    <version>0.6</version>
+      <groupId>org.jboss.remoting</groupId>
+    <artifactId>jboss-remoting</artifactId>
+    <version>5.0.0.Beta1</version>
     </dependency>
   </dependencies>
 </project>
